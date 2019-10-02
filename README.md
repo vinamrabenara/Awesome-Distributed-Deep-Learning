@@ -43,6 +43,7 @@ A curated list of awesome Distributed Deep Learning resources.
 ## Papers 
 ### General:
 1. [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941):discusses the different types of concurrency in DNNs; synchronous and asynchronous stochastic gradient descent; distributed system architectures; communication schemes; and performance modeling. Based on these approaches, it also extrapolates the  potential directions for parallelism in deep learning. 
+2. [A Hitchhiker’s Guide On Distributed Training of Deep Neural Networks](https://arxiv.org/pdf/1810.11787.pdf)
 
 ## Model Consistency:
 ### Synchronization:
